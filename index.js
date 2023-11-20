@@ -1,5 +1,3 @@
 
+Amit merge testing 
 
-
-
-this is a test. STAN
